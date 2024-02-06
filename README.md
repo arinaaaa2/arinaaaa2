@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello everyone! 👋 I'm [Your Name], a [Your Job or Field of Study] with a passion for [Your Main Interest or Expertise]. I have experience in [Brief Description of Your Experience] and enjoy contributing to [Projects or Initiatives You've Been Involved In].
+Hello everyone! 👋 I'm Arina,
 
 ### Skills
 
@@ -18,8 +18,8 @@ I'm always open to collaborating on interesting projects focused on [Specific Fi
 
 ### Contact Information
 
-- 📧 Email: [Your Email Address]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@YourTwitterHandle]
+- 📧 Email: private
+- 🔗 LinkedIn: -
+- 🐦 Twitter:-
 
 Thanks for reading my introduction! I look forward to connecting with many like-minded individuals.
